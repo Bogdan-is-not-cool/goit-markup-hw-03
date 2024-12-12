@@ -95,7 +95,10 @@ img {
     color: #404bbf;
 }
 
-.address-li 
+.address-li {
+    display: flex;
+    gap: 40px;
+}
 
 .add-item {
         font-weight: 400;
