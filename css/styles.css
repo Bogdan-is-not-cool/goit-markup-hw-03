@@ -233,6 +233,10 @@ button:focus {
         gap: 24px;
 }
 
+.cont-sec-tree {
+        padding: 32px 0
+}
+
 .section-li {
     background-color: #ffffff;
     width: calc((100% - 72px) / 4);
@@ -246,6 +250,7 @@ button:focus {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-align: center;
 }
 
 .section-tree-p {
