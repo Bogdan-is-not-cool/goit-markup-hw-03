@@ -173,7 +173,7 @@ button:focus {
 /* #region section-2 */
 
 .section-two {
-        padding: 120px 0
+        padding: 120px 0;
 }
 
 .section-dva {
@@ -263,7 +263,10 @@ button:focus {
 /* #endregion */
 
 /* #region section-4 */
-.section-four-all 
+.section-four-all {
+        padding-top: 120px;
+        padding-bottom: 120px;
+}
 
 .section-four-h_two {
         font-weight: 700;
@@ -273,9 +276,15 @@ button:focus {
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
+        margin-bottom: 72px;
 }
 
-.section-four-ul 
+.section-four-ul {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 24px;
+        row-gap: 48px;
+}
 
 .section-four-li 
 
