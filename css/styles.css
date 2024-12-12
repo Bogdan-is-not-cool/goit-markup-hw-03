@@ -186,6 +186,10 @@ button:focus {
         width: calc((100% - 72px) / 4);
 }
 
+.item-li-dwa {
+        width: calc((100% - 72px) / 4);
+}
+
 .section-dva 
 .item-li-dwa
 .zgldva {
@@ -209,6 +213,7 @@ button:focus {
 /* #region section-3 */
 .section-tree-full {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .section-tree-h_two {
