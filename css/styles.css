@@ -295,6 +295,7 @@ button:focus {
 /* #region footer */
 .logo-footer-all {
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .logo-footer-a {
@@ -321,6 +322,11 @@ button:focus {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+
+.logo-footer-a, .logo-style-studio-footer {
+        display: inline-block;
+        margin-bottom: 16px;
 }
 
 /* #endregion */
