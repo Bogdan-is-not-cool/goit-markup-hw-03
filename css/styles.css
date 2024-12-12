@@ -27,7 +27,7 @@ ul {
     list-style-type: none;
 }
 
-.knopka {
+button {
     cursor: pointer;
 }
 
@@ -131,9 +131,11 @@ img {
         letter-spacing: 0.02em;
         text-align: center;
         color: #ffffff;
+        max-width: 496px;
 }
 .glvod {
     background-color: #2e2f42;
+    padding: 188px 0;
 }
 .knopka {
         font-weight: 500;
