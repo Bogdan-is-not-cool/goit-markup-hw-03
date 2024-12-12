@@ -183,6 +183,7 @@ button:focus {
 
 .zgldva {
         margin-bottom: 8px;
+        width: calc((100% - 72px) / 4);
 }
 
 .section-dva 
@@ -192,8 +193,7 @@ button:focus {
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
-        width: calc((100% - 72px) / 4);
+        color: #2e2f42;       
 }
 .paragraf {
         font-weight: 400;
