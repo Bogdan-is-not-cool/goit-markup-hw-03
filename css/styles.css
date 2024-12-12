@@ -171,6 +171,20 @@ button:focus {
 /* #endregion */
 
 /* #region section-2 */
+
+.section-two {
+        padding: 120px 0
+}
+
+.section-dva {
+        display: flex;
+        gap: 24px;
+}
+
+.zgldva {
+        margin-bottom: 8px;
+}
+
 .section-dva 
 .item-li-dwa
 .zgldva {
