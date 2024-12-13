@@ -212,8 +212,9 @@ button:focus {
 
 /* #region section-3 */
 .section-tree-full {
-    background-color: #F4F4FD;
-    padding: 120px 0;
+        background-color: #F4F4FD;
+        padding-top: 120px;
+        padding-bottom: 120px;
 }
 
 .section-tree-h_two {
@@ -276,7 +277,7 @@ button:focus {
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
-        margin-bottom: 72px;
+        margin-bottom: 8px;
 }
 
 .section-four-ul {
@@ -292,7 +293,6 @@ button:focus {
         padding: 32px 16px;
         border: 1px solid #e7e9fc;
         border-top: none;
-        margin-bottom: 8px;
 }
 
 .section-four-h_tree {
