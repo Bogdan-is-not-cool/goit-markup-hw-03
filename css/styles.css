@@ -213,6 +213,9 @@ button:focus {
 /* #region section-3 */
 .section-tree-full {
         background-color: #F4F4FD;
+}
+
+.section-tree-full {
         padding: 120px 0;
 }
 
@@ -292,6 +295,7 @@ button:focus {
         padding: 32px 16px;
         border: 1px solid #e7e9fc;
         border-top: none;
+        margin-bottom: 8px;
 }
 
 .section-four-h_tree {
